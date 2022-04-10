@@ -8,6 +8,11 @@ string a, b;
 deque<int> r;
 
 void program(){
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    #endif
+
     cin>>n>>d>>a;
     b = a;
     
