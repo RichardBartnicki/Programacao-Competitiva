@@ -1,6 +1,0 @@
-Sequencia: 3759
-Troca 7 (1) com 5 (2) | Ficou: 3759
-Sequencia final: 3579
-Peso final: 0213
-79
-----------------
